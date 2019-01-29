@@ -1,4 +1,4 @@
-#Readings-Summariser
+# Readings-Summariser
 
 What it does: Reads in pdf files and creates a specified summary
 
