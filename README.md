@@ -1,4 +1,4 @@
-# Readings-Summariser
+# SummariseMe
 
 What it does: Reads in pdf files and generates a summary, so you no longer need to painfully read long and boring things :)
 
